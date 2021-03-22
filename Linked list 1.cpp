@@ -264,4 +264,6 @@ fflush(stdin);
 scanf("%c", &lagi);
 }
 while(lagi=='y' || lagi=='Y');
+  
+  return0;
 }
